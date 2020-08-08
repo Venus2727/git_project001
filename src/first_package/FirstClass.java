@@ -10,6 +10,7 @@ public class FirstClass {
 		System.out.println("I want to leave conflit");
 		
 		System.out.println("i want to have a second conflit");
+		System.out.println("WHAT HAPPENED");
 		
 
 	}
